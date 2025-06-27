@@ -63,7 +63,7 @@ document.getElementById("contact-form").addEventListener("submit", async functio
   }
 
   try {
-    const response = await fetch("https://your-backend.vercel.app/api/contact", {
+    const response = await fetch("https://portfoliobackend2-beryl.vercel.app//api/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
