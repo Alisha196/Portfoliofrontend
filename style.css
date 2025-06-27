@@ -533,7 +533,7 @@ section h2 {
   border: none;
   border-radius: 30px;
   background: var (--gradient);
-  color: white;
+  color: black;
   font-weight: 600;
   cursor: pointer;
   transition: var(--transition);
